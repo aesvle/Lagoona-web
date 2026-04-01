@@ -1,5 +1,7 @@
 # Lagoona - Hotel Chain Landing Page
 
+![Project Preview](preview.png)
+## [View Live Demo](https://aesvle.github.io/Lagoona-web/)
 A complex, multi-section landing page for a hotel chain, developed based on a Figma design. This project focuses on high-quality UI/UX components, extensive use of CSS Flexbox, and detailed interactive states.
 
 ## Key Features:
@@ -10,4 +12,3 @@ A complex, multi-section landing page for a hotel chain, developed based on a Fi
 * **Clean Code:** Follows professional standards for layout organization, including resets and modular styling.
 * **Asset Integration:** Efficiently incorporates SVG icons and optimized images for a professional look and feel.
 
-## [View Live Demo](https://aesvle.github.io/Lagoona-web/)
